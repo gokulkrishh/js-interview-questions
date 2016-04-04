@@ -140,14 +140,15 @@ myFunz(arr, obj);
 
 ```
 
-**[⬆ back to top](#table-of-contents)**
-
-
 - Find ```max``` and ```min``` value in an array ?
 
 - Write a program to remove duplicate value in an array
 
 - Write a program to search an element in an array and optimize it to the most efficient solution and explain its complexity  
+
+
+**[⬆ back to top](#table-of-contents)**
+
 
 ## Objects
 
