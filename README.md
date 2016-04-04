@@ -15,7 +15,7 @@
 
 ## Global & Local Variables
 
-- What is the output of the below program ?
+- What is the output of the below program and why ?
 
 ```javascript
 
@@ -36,7 +36,7 @@ console.log(foo); //print
 
 ## Hoisting
 
-- What is the output of the below program ?
+- What is the output of the below program and why ?
 
 ```javascript
 
@@ -52,7 +52,7 @@ function myFunz() {
 
 ## Operators
 
-- What will be output of below program ?
+- What will be output of below program and why ?
 
 ```javascript
 
@@ -78,7 +78,7 @@ console.log("1" + "3" + 2);
 
 ## Closures
 
-- What is the output of the below program ?
+- What is the output of the below program and why ?
 
 ```javascript
 
