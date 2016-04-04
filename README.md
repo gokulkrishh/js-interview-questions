@@ -152,3 +152,8 @@ myFunz(arr, obj);
 - Write a class in javascript and its properties and methods should be inheritable by other functions
 
 - How will you extend a method in javascript ?
+
+
+### Contributions
+
+If you find an issue, please file it. PR's are most welcome ;)
