@@ -4,7 +4,7 @@
 
 
 ### Table of Contents
-1. [Global & Local Variables](#global-local-variables)
+1. [Global & Local Variables](#global-&-local-variables)
 1. [Hoisting](#hoisting)
 1. [Operators](#operators)    
 1. [Closures](#closures)    
