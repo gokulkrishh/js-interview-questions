@@ -4,7 +4,7 @@
 
 
 ### Table of Contents
-1. [Global & Local Variables](#global-&-local-variables)
+1. [Global & Local Variables](#global-and-local-variables)
 1. [Hoisting](#hoisting)
 1. [Operators](#operators)    
 1. [Closures](#closures)    
@@ -13,7 +13,7 @@
 1. [Prototype](#prototype)
 
 
-## Global & Local Variables
+## Global and Local Variables
 
 - What is the output of the below program and why ?
 
@@ -76,6 +76,9 @@ console.log("1" + "3" + 2);
 
 ```
 
+**[⬆ back to top](#table-of-contents)**
+
+
 ## Closures
 
 - What is the output of the below program and why ?
@@ -112,6 +115,9 @@ for (var i = 0; i < 9; i++) {
 
 ```
 
+**[⬆ back to top](#table-of-contents)**
+
+
 ## Arrays
 
 - How will you tell below input in the function is array or not ?
@@ -134,6 +140,9 @@ myFunz(arr, obj);
 
 ```
 
+**[⬆ back to top](#table-of-contents)**
+
+
 - Find ```max``` and ```min``` value in an array ?
 
 - Write a program to remove duplicate value in an array
@@ -152,6 +161,9 @@ myFunz(arr, obj);
 - Write a class in javascript and its properties and methods should be inheritable by other functions
 
 - How will you extend a method in javascript ?
+
+
+**[⬆ back to top](#table-of-contents)**
 
 
 ### Contributions
